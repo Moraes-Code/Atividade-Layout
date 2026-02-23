@@ -5,11 +5,23 @@
     border-radius: 20px;
     border:  20px;
     height: 200px;
-    width: 1000px;
+    width: 1200px;
+    margin: 20px;
+    padding: 5px;
+    align-items: center;
+    gap: 20px;
 }
 #Card-1 button{
-    display: flex;
     justify-content: right;
     height: 100px;
     width: 700px;
+    border: 7px;
+    border-radius: 7px;
+    margin: 2px;
+    flex-wrap: wrap;
+}
+#Card-1 h1{
+    display: flex;
+   flex-direction: column;
+   gap: 20px;
 }
