@@ -9,7 +9,15 @@
     margin: 20px;
     padding: 5px;
 }
+.textos h1{
+    display: flex;
+    font-size: medium;
+    
+}
+
 #robo{
     width: 200px;
     height: 200px;
 }
+
+
