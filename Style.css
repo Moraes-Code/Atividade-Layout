@@ -8,11 +8,18 @@
     margin: 20px;
     padding: 5px;
 }
+.textos h1{
+    display: flex;
+    font-size: medium;
+    
+}
+
 #robo{
     width: 200px;
     height: 200px;
 }
 
+<<<<<<< HEAD
 #Card-2{
     background-color: rgb(214, 234, 247);
     display: flex;
@@ -26,3 +33,6 @@
 #Card-2 h2{
     margin-right: 20px;
 }
+=======
+
+>>>>>>> d95ede514594890f65a36587e21f61daa3575317
