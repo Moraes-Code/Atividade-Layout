@@ -24,7 +24,6 @@ header{
     flex-direction: column;
     display: flex;
     margin: 10px;
-    
 }
 h2{
     flex-direction: column;
@@ -44,30 +43,53 @@ h2{
     display: flex;
 }
 main{
-    
+    display: flex;
 }
-section{
+#Container_3{
+    background-color: rgb(218, 226, 248);
+    border-radius: 3px;
+    height: 300px;
+    width: 1110px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.Card_3{
     display: flex;
 }
 #Container_4{
     background-color: rgb(218, 226, 248);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border-radius: 3px;
     height: 300px;
-    width: 800px;
+    width: 750px;
     margin: 10px;
     margin-top: 10px;
 }
-#Container_4{
+.Card_4{
+    display: flex;
+}
+footer{
+    display: flex;
+}
+#Container_5{
     background-color: rgb(218, 226, 248);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
     border-radius: 3px;
-    height: 300px;
-    width: 800px;
+    height: 270px;
+    width: 1110px;
     margin: 10px;
     margin-top: 10px;
 }
+.Card_5{
+    display: flex;
+}
+#Container_6{
+    background-color: rgb(218, 226, 248);
+    border-radius: 3px;
+    height: 270px;
+    width: 750px;
+    margin: 10px;
+    margin-top: 10px;
+}
+.Card_6{
+    display: flex;
+}
+
