@@ -40,9 +40,57 @@ h2{
     margin: 10px;
     margin-top: 10px;
 }
+
 .Card_2{
     display: flex;
 }
+
+table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 10px;
+  width: 100px;
+}
+
+thead th {
+  text-align: left;
+  font-size: 14px;
+  color: #6b7a99;
+  padding: 10px;
+  width: 100px;
+}
+
+tbody tr {
+  background: white;
+  border-radius: 8px;
+  width: 100px;
+}
+
+tbody td {
+  padding: 14px 10px;
+  width: 100px;
+}
+
+.status {
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.processado {
+  background-color: #2ecc71;
+}
+
+.pendente {
+  background-color: #f1c40f;
+}
+
+.cancelado {
+  background-color: #e74c3c;
+}
+
 main{
     
 }
